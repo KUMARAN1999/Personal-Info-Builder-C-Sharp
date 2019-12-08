@@ -1,0 +1,9 @@
+c:\users\personal\documents\visual studio 2012\Projects\Personal_Info\Personal_Info\bin\Debug\Personal_Info.exe
+c:\users\personal\documents\visual studio 2012\Projects\Personal_Info\Personal_Info\bin\Debug\Personal_Info.pdb
+c:\users\personal\documents\visual studio 2012\Projects\Personal_Info\Personal_Info\obj\Debug\Personal_Info.csprojResolveAssemblyReference.cache
+c:\users\personal\documents\visual studio 2012\Projects\Personal_Info\Personal_Info\obj\Debug\Personal_Info.Form1.resources
+c:\users\personal\documents\visual studio 2012\Projects\Personal_Info\Personal_Info\obj\Debug\Personal_Info.Properties.Resources.resources
+c:\users\personal\documents\visual studio 2012\Projects\Personal_Info\Personal_Info\obj\Debug\Personal_Info.csproj.GenerateResource.Cache
+c:\users\personal\documents\visual studio 2012\Projects\Personal_Info\Personal_Info\obj\Debug\Personal_Info.exe
+c:\users\personal\documents\visual studio 2012\Projects\Personal_Info\Personal_Info\obj\Debug\Personal_Info.pdb
+c:\users\personal\documents\visual studio 2012\Projects\Personal_Info\Personal_Info\obj\Debug\Personal_Info.info_set.resources
